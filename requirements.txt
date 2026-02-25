@@ -1,0 +1,4 @@
+customtkinter
+fpdf2
+pandas
+openpyxl
